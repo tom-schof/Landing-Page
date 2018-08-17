@@ -1,11 +1,31 @@
-/* .jumbotron-fluid{
-   background-image: url("https://www.shutterstock.com/image-photo/open-refrigerator-full-healthy-items-modern-561902365" );
+.jumbotron{
+   height: 800px;
+   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   color: lightseagreen;
+   text-shadow: 1px solid black;
 
-} */
+
+}
+.display-4{
+    font-size: 6em;
+}
+.lead{
+    font-size: 4em;
+}
+
+body{
+    background-image: url("./what-the-hex-dark.png");
+    color: lightgray;
+   
+}
 
 .photo{
     height: 300px;
     width: 400px;
     padding: 40px;
     margin-right: 0;
+}
+
+.btn{
+    background-color: lightseagreen;
 }
