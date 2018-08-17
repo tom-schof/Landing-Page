@@ -29,3 +29,17 @@ body{
 .btn{
     background-color: lightseagreen;
 }
+
+.parallax { 
+    /* The image used */
+    background-image: url("https://qph.fs.quoracdn.net/main-qimg-db959dd9be4ed735989caa353f2f0c3a-c");
+
+    /* Set a specific height */
+    height: 500px; 
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
