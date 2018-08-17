@@ -1,0 +1,11 @@
+/* .jumbotron-fluid{
+   background-image: url("https://www.shutterstock.com/image-photo/open-refrigerator-full-healthy-items-modern-561902365" );
+
+} */
+
+.photo{
+    height: 300px;
+    width: 400px;
+    padding: 40px;
+    margin-right: 0;
+}
