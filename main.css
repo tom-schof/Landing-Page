@@ -6,6 +6,10 @@
 
 
 }
+ol{
+    padding: 25px;
+    font-size: 2.5em;
+}
 .display-4{
     font-size: 6em;
 }
